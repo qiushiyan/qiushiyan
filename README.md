@@ -1,7 +1,9 @@
 
 ## Qiushi Yan 👨‍💻
+[![Linkedin Badge](https://img.shields.io/badge/-Personal_Blog-9cf?style=flat-square&link=https://qiushi.rbind.io/)](https://qiushi.rbind.io/) 
 [![Twitter Badge](https://img.shields.io/badge/-qiushizzzz-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SulthanNK)](https://twitter.com/qiushizzzz) 
 [![Linkedin Badge](https://img.shields.io/badge/-Qiushi_Yan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/qiushi-yan-893a48194/)](https://www.linkedin.com/in/qiushi-yan-893a48194/) 
+
 
 
 
