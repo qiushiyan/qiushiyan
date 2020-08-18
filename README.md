@@ -20,13 +20,15 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=enixam&show_icons=true)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![R](https://img.shields.io/badge/-R-00599C?style=flat&logo=r&link=https://https://github.com/enixam)](https://github.com/enixam)
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/enixam)](https://github.com/enixam)
+[![Python](https://img.shields.io/badge/-Python-gray?style=flat&logo=python&link=https://github.com/enixam)](https://github.com/enixam)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/henry090)](https://github.com/henry090) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/henry090)](https://github.com/henry090) 
 [![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-black?style=flat&logo=JAVASCRIPT&link=https://github.com/enixam)](https://github.com/enixam)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/enixam)](https://github.com/enixam) 
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=enixam&show_icons=true)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
