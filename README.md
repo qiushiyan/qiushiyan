@@ -13,7 +13,7 @@
 -  **Learning :**   
     - Statistics and all kinds of modeling:chart_with_upwards_trend: | 
     - Open-Source tools :package:  
-    - Current goal: Bayesian stats; optimization  
+    - Current learning goal: Bayesian stats; optimization  
 -  **Hobbies :** #rstats :bar_chart: | Sharing my learning journey at https://qiushi.rbind.io/ :books:
 -  **Pronouns :** He/Him/His :innocent:
 
