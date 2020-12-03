@@ -26,7 +26,7 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/henry090)](https://github.com/henry090) 
 [![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-black?style=flat&logo=JAVASCRIPT&link=https://github.com/enixam)](https://github.com/enixam)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/enixam)](https://github.com/enixam) 
-
+[![Hive](https://img.shields.io/badge/-Hive-yellow?style=flat&logo=hive&link=https://github.com/enixam)](https://github.com/enixam)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=enixam&show_icons=true)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
