@@ -28,9 +28,8 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/enixam)](https://github.com/enixam) 
 [![Hive](https://img.shields.io/badge/-Hive-yellow?style=flat&logo=hive&link=https://github.com/enixam)](https://github.com/enixam)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=enixam&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=enixam&show_icons=true&theme=blueberry)
 
-[![Qiushi's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=enixam&layout=compact)](https://github.com/enixam/github-readme-stats)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
