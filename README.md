@@ -2,7 +2,7 @@
 ## Qiushi Yan 👨‍💻
 [![blog Badge](https://img.shields.io/badge/-Personal_Blog-9cf?style=flat-square&link=https://qiushi.rbind.io/)](https://qiushi.rbind.io/) 
 [![Twitter Badge](https://img.shields.io/badge/-qiushizzzz-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SulthanNK)](https://twitter.com/qiushizzzz) 
-[![Linkedin Badge](https://img.shields.io/badge/-Qiushi_Yan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/qiushi-yan-893a48194/)](https://www.linkedin.com/in/qiushi-yan-893a48194/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Qiushi_Yan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/qiushiyan/)](https://www.linkedin.com/in/qiushiyan/) 
 
 
 
@@ -13,7 +13,8 @@
 -  **Learning :**   
     - Statistics and all kinds of modeling:chart_with_upwards_trend: | 
     - Open-Source tools :package:  
-    - Current learning goal: Bayesian stats; optimization  
+    - Current learning goal: Statistical Learning Theory; Django
+
 -  **Hobbies :** #rstats :bar_chart: | Sharing my learning journey at https://qiushi.rbind.io/ :books:
 -  **Pronouns :** He/Him/His :innocent:
 
