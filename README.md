@@ -13,7 +13,9 @@
 -  **Learning :**   
     - Statistics and all kinds of modeling:chart_with_upwards_trend: | 
     - Open-Source tools :package:  
-    - Current learning goal: Statistical Learning Theory; Django
+    - Current learning 
+        - Statistical Learning Theory
+        - Django
 
 -  **Hobbies :** #rstats :bar_chart: | Sharing my learning journey at https://qiushi.rbind.io/ :books:
 -  **Pronouns :** He/Him/His :innocent:
