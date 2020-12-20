@@ -13,7 +13,7 @@
 -  **Learning :**   
     - Statistics and all kinds of modeling:chart_with_upwards_trend: | 
     - Open-Source tools :package:  
-    - Current learning 
+    - Currently learning 
         - Statistical Learning Theory
         - Django
 
