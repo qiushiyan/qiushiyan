@@ -18,16 +18,15 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=enixam&show_icons=true&theme=blueberry" />
 
 ### About
-- **Role :** Senior student at Communication University of China, Data Journalism
--  **Learning :**   
+- **Who am I :** Senior student at Communication University of China, Data Journalism
+-  **I am Learning :**   
     - Statistics and all kinds of modeling:chart_with_upwards_trend: | 
     - Open-Source tools :package:  
     - Currently learning 
         - Statistical Learning Theory
         - Django
 
--  **Hobbies :** #rstats :bar_chart: | Sharing my learning journey at https://qiushi.rbind.io/ :books:
--  **Pronouns :** He/Him/His :innocent:
+-  **My hobbies :** #rstats :bar_chart: |  statistics books :books: | web technologies :spider_web: | Nature Documentaries :palm_tree: | blogging at qiushi.rbind.io 
 
 
 
