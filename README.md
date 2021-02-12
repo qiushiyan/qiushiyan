@@ -7,10 +7,8 @@
 [![R](https://img.shields.io/badge/-R-00599C?style=flat&logo=r&link=https://https://github.com/enixam)](https://github.com/enixam)
 [![Python](https://img.shields.io/badge/-Python-gray?style=flat&logo=python&link=https://github.com/enixam)](https://github.com/enixam)
 [![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-black?style=flat&logo=JAVASCRIPT&link=https://github.com/enixam)](https://github.com/enixam)
-[![Vue](https://img.shields.io/badge/-Vue-green?style=flat&logo=git&link=https://github.com/enixam)](https://github.com/enixam) 
-[![Vue](https://img.shields.io/badge/-Django-salmon?style=flat&logo=git&link=https://github.com/enixam)](https://github.com/enixam) 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/enixam)](https://github.com/enixam) 
-[![Hive](https://img.shields.io/badge/-Hive-yellow?style=flat&logo=hive&link=https://github.com/enixam)](https://github.com/enixam)
+[![Vue](https://img.shields.io/badge/-Vue-green?style=flat&logo=git&link=https://github.com/enixam)](https://github.com/enixam)
+[![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&link=https://github.com/enixam)](https://github.com/enixam)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
