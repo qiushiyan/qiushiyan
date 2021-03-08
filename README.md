@@ -6,9 +6,10 @@
 <br>
 [![R](https://img.shields.io/badge/-R-00599C?style=flat&logo=r&link=https://https://github.com/enixam)](https://github.com/enixam)
 [![Python](https://img.shields.io/badge/-Python-gray?style=flat&logo=python&link=https://github.com/enixam)](https://github.com/enixam)
-[![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-black?style=flat&logo=JAVASCRIPT&link=https://github.com/enixam)](https://github.com/enixam)
 [![Vue](https://img.shields.io/badge/-Vue-42B983?style=flat&logo=git&link=https://github.com/enixam)](https://github.com/enixam)
 [![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&link=https://github.com/enixam)](https://github.com/enixam)
+[![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-black?style=flat&logo=TYPESCRIPT&link=https://github.com/enixam)](https://github.com/enixam)
+[![GraphQL](https://img.shields.io/badge/-GRAPHQL-purple?style=flat&logo=GRAPHQL&link=https://github.com/enixam)](https://github.com/enixam)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
