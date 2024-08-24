@@ -1,6 +1,12 @@
 Hi there :wave:
 
+I worked professionally on 
 
+- [iTell](https://github.com/learlab/itell-strapi-demo): A framework for building LLM-powered digital textbooks
+
+My 2022 intern project at [Posit](https://posit.co/)
+
+- [agua](https://github.com/tidymodels/agua): Create and evaluate models using 'tidymodels' and 'h2o'
 
 Other random stuff I made
 
