@@ -1,7 +1,6 @@
-Hi there :wave:
 
 
-I am currently working on AI apps. Porjects I worked on include
+Hi there :wave:. I am an AI and fullstack engineer. Porjects I worked on include
 
 - [iTELL](https://www.itell.ai/)
 
